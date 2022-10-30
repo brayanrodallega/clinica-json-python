@@ -1,0 +1,1 @@
+[{"pacientes":[{"id":1,"nombre":"Carlos","apellido":"Perez","documento":"123456","nacimiento":"12/10/1990","nacionalidad":"Colombiana","historiaClinica":{"fecha":"19-06-2022","enfermedad":"Cancer","medico":"Antonio"}},{"id":2,"nombre":"Tatiana","apellido":"Gongora","documento":"45646456","nacimiento":"16/03/1996","nacionalidad":"Aleman"}],"contador":2}]
